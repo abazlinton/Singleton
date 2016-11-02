@@ -1,0 +1,3 @@
+A Singleton is a class that creates, and allows access to only one class instance. It does this by creating the instance within the class itself and by making the constructor a private class method.
+
+It has limited practical applications. But can be used for restricting access to a shared resource such as a database, logger or printer spooler.
